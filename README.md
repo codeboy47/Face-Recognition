@@ -22,11 +22,11 @@ For validation and evaluation purpose, I have done following steps :
 <br>
 
 ## Output :
-<img src = "https://github.com/akshitSingh07/Face-Recognition/blob/master/Images/output.png" />
+<img src = "https://github.com/codeboy47/Face-Recognition/blob/master/Images/output.JPG" />
  
 ## Result : 
 The accuracy for SVM comes out to be 98.89% with a f1 score of 0.99
-<img src = "https://github.com/akshitSingh07/Face-Recognition/blob/master/Images/accuracy.png" />
+<img src = "https://github.com/codeboy47/Face-Recognition/blob/master/Images/accuracy.png" />
 
 <br>
 
