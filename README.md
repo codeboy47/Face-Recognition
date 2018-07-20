@@ -11,7 +11,7 @@ Note : Your Laptop/Desktop must have webcam in order to record and identify face
 
 <br>
 
-## Validation and evaluation :
+## Validation and evaluation:
 For validation and evaluation purpose, I have done following steps :
 1. Split the data into a training and testing set using train_test_split.
 2. Apply PCA that transforms 7500 features into 400.
@@ -21,16 +21,16 @@ For validation and evaluation purpose, I have done following steps :
 
 <br>
 
-## Output :
+## Output:
 <img src = "https://github.com/codeboy47/Face-Recognition/blob/master/Images/output.png" />
  
-## Result : 
+## Result: 
 The accuracy for SVM comes out to be 98.89% with a f1 score of 0.99
 
 <img src = "https://github.com/codeboy47/Face-Recognition/blob/master/Images/accuracy.png" />
 
 <br>
 
-## Applications :
+## Applications:
 1. It can be used as a attendence software that recognizes faces of the employees working in a company.
 2. Instead of using passcodes, mobile phones will be accessed via owners’ facial features.
