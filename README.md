@@ -32,5 +32,5 @@ The accuracy for SVM comes out to be 98.89% with a f1 score of 0.99
 <br>
 
 ## Applications:
-1. It can be used as a attendence software that recognizes faces of the employees working in a company.
+1. It can be used as a attendance software that recognizes faces of the employees working in a company.
 2. Instead of using passcodes, mobile phones will be accessed via owners’ facial features.
